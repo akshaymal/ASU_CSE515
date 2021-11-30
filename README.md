@@ -1,2 +1,2 @@
 # ASU_CSE515
-Personal respository for everything related to CSE515
+Repository related to CSE 515: Multimedia and Web Databases
